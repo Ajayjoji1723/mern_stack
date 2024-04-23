@@ -1,0 +1,11 @@
+
+
+.tourism_container{
+    background-image: radial-gradient( rgb(232, 166, 166), rgb(129, 129, 176));
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100vw;
+    color: #fff !important;
+}
+
